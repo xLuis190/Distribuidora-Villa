@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: 'Dancing Script', cursive;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  i{
+      color:black;
+  }
+
+.brand-logo > img{
+    width: 4rem;
+}
+ul > li> a{
+    color:black;
+}
+.card-title{
+    color:black !important;
+}
+section{
+    padding: 1rem 0;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    display: block;
+    background-color:#fffde7 ;
+    border-radius: 1rem;
+}
+.card{
+    background-color:#fffde7 ;
+}
+.right{
+    float:right !important ;
+}
+.card  .card-content{
+    padding:0 !important;
+}
+p{
+    font-size: 1.2rem;;
+}
